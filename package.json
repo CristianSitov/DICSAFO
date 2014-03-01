@@ -1,5 +1,5 @@
 {
-  "name": "the-new-sandbox",
+  "name": "the-new-dicsafo",
   "version": "0.5.0",
   "description": "Sandbox site featuring typical Apostrophe features",
   "main": "app.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/punkave/apostrophe-sandbox"
+    "url": "https://github.com/CristianSitov/DICSAFO"
   },
-  "author": "P'unk Avenue",
+  "author": "Cristian Sitov",
   "license": "BSD",
   "dependencies": {
     "apostrophe": "0.5.x",
